@@ -30,6 +30,9 @@ dependencies:
     git:
       url: https://github.com/sunshine-protocol/frusty-logger.git
 
+dependency_overrides:
+  ffi: 1.2.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
